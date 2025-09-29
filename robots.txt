@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://laboat.github.io/Laboat/sitemap.xml
